@@ -6,7 +6,7 @@ Hooks the LKM and bypasses ASLR, DEP, NX bit, Canaries, etc mostly with gadgets 
 
 ## About
 
-This attacks multiple architectures with vmalloc() -> kmem() and kmem() -> tricks (ask me more) 
+C/ASM - This attacks multiple architectures with vmalloc() -> kmem() and kmem() -> tricks (ask me more) 
 
 ### Installation
 

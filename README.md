@@ -11,7 +11,7 @@ Hooks the LKM and bypasses ASLR, DEP, NX bit, Canaries, etc mostly with gadgets 
 
 ## About
 
-This attacks multiple architectures, years went into this project.
+This attacks multiple architectures with vmalloc() -> kmem() and kmem() -> (ask me more)
 
 ### Installation
 
@@ -19,4 +19,4 @@ This attacks multiple architectures, years went into this project.
 # Commands
 $ git clone https://github.com/awknode/linux-rootkit.git
 $ cd linux-rootkit
-$ compile
+$ And we have a Makefile, life is easy

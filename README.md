@@ -14,4 +14,4 @@ C/ASM - This attacks multiple architectures where I load LKM which does a vmallo
 # Commands
 $ git clone https://github.com/awknode/linux-rootkit.git
 $ cd linux-rootkit
-$ And we have a Makefile, life is easy -- and now you have to copy and paste this line by line if thats how you work 0.0
+# And we have a Makefile, life is easy
